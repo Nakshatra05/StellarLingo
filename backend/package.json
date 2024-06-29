@@ -1,0 +1,13 @@
+{
+  "name": "stellarlingo-backend",
+  "version": "1.0.0",
+  "main": "server.js",
+  "dependencies": {
+    "@stellar/sdk": "^8.2.0",
+    "express": "^4.18.2",
+    "body-parser": "^1.20.2"
+  },
+  "scripts": {
+    "start": "node server.js"
+  }
+}
